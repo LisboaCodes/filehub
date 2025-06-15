@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'plataformas' => [
+        '123rf'           => 'bot_123rf',
+        'AdobeStock'      => 'bot_adobestock',
+        'Artgrid'         => 'bot_artgrid',
+        'Artlist'         => 'bot_artlist',
+        'BaixarDesign'    => 'bot_baixardesign',
+        'Craftwork'       => 'bot_craftwork',
+        'CreativeFabrica' => 'bot_creativefabrica',
+        'Deezy'           => 'bot_deezy',
+        'Designi'         => 'bot_designi',
+        'Designbr'        => 'bot_designbr',
+        'Envato'          => 'bot_envato',
+        'EpidemicSound'   => 'bot_epidemicsound',
+        'Flaticon'        => 'bot_flaticon',
+        'IconScout'       => 'bot_iconscout',
+        'Istock'          => 'bot_istock',
+        'Lovepik'         => 'bot_lovepik',
+        'MockupCloud'     => 'bot_mockupcloud',
+        'MotionArray'     => 'bot_motionarray',
+        'MotionElements'  => 'bot_motionelements',
+        'Pixeden'         => 'bot_pixeden',
+        'RawPixel'        => 'bot_rawpixel',
+        'Shutterstock'   => 'bot_shutterstock',
+        'StoryBlocks'     => 'bot_storyblocks',
+        'Vecteezy'        => 'bot_vecteezy', 
+    ],
+];
